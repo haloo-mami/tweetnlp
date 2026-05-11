@@ -132,8 +132,10 @@ The project demonstrates that incremental architectural improvements, such as Bi
 
 ## 👩‍💻 Authors
 
-**Bhumika Rishitha**
-**Amrutha**
-**lavanya**
-**kavya rai**
+**Bhumika Rishitha.**
+
+**Amrutha.**
+
+**lavanya.**
+**kavya rai.**
 IIT Kharagpur
